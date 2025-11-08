@@ -44,7 +44,8 @@ export const About = () => {
             <div className="space-y-6">
               <div className="card-tech">
                 <p className="text-lg leading-relaxed mb-6">
-                  Sou um desenvolvedor apaixonado por tecnologia com mais de X anos de experiência 
+                  Bem-vindo! Meu nome é Kaio Galvão.
+                  Sou um desenvolvedor apaixonado por tecnologia com mais de 3 anos de experiência 
                   criando soluções digitais inovadoras. Especializo-me em desenvolvimento full-stack 
                   com foco em performance, usabilidade e código limpo.
                 </p>
